@@ -1,0 +1,48 @@
+
+
+- form like normal from jo hamey center vwagera mey milty hen ✅
+
+input - user eskey ander kuch data dely ga ✅
+
+types of input 
+1 text - normal text yani "xyz" ✅
+2 number - eskey ander just number daley ga - koi abcd nhi ✅
+3 email - eskey ander just email vo daley "hussain@gmail.com" ✅
+4 radio buttons - ham options dey kar user sey information get karty hen  ✅
+--- radio key ander name same rkhan hey takey ontime mey aike hei option select ho  ✅
+5 password - ye filde kesi ko bhi mhi dikhati user kia likh rha hey  ✅
+6 select or option - ye jab use karty hey jab optons hamarey pass zada ho  ✅
+7 time - ye bata ta hey key kes time per user data send kar rha hey  ✅
+
+
+user ko batney key key kon sei field kes kei hey 
+2 ways of understand form fields
+
+- label - ye batata hey key apka input kes cheex ka hey ✅
+- placeholder - inpute key ander jo text sho ho osey placeholder kehty hen ✅
+
+
+signup - jab user first time website per ata hey - oska sara data 
+login - jub user 2nd time ata hey - to ham os sey serif 2 fildes sey dekhty hen key ye vhi ye nhiii
+
+
+
+tags or element
+attribute hamesa starting tag mey aay ga 
+
+<element attribute="oski value">
+    <h2>Hello</h2>
+</element>
+
+element key ander bohot sary attributes hoty hen
+attributes kei vaue ham likhty hey like "input key ander oska type attribute hey or oseky ander = key baas "password" kei value
+
+label kei koi type nhi hoti hey 
+or input kei type hoti hey 
+
+action - ka matlab form submit hoty hei kha janey vala hey 
+
+method 2 types 
+1 get eskey ander jo bhi data app from mey dakty ho vo urk mey dikh jata hey 
+Url = eska matlab ap jes broweser wesbite dekh rhey ho - oska search section
+2 post = ye karta ey key vo apka data kabhi bhi url mey show nhi karvata chupeky apka backend bheej dta hey 
