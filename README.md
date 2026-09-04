@@ -7,6 +7,7 @@ Welcome to the official repository for the **Web Development & CMS Mastery Cours
 ## 👨‍🏫 Instructor Profile
 
 * **Instructor:** Muhammad Hussain Shamim
+* **Instructor:** Arzoo Shamim
 * **Role:** Senior Frontend & CMS Developer (React, WordPress, Shopify, PHP)
 * **Portfolio:** [hussainshamim.netlify.app](https://hussainshamim.netlify.app/)
 * **Email:** hussainshamimdev@gmail.com
